@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @profkalinowski
-- 👀 I’m interested in Software Engineering and Data Science
+- 👀 I’m interested in Software Engineering and Artificial Intelligence
 - 📫 Reach me at kalinowski@inf.puc-rio.br
 
 <!---
